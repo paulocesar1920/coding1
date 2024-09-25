@@ -1,0 +1,23 @@
+let rotulo = "natalia";
+rotulo = 12345;
+console.log(rotulo);
+console.log("hello" + rotulo );
+const cesar = "paulo cesar";
+console.log(cesar);
+console.log("insira seu nome: " + cesar);
+let video = "2 5 2 5";
+console.log(video);
+console.log("codigo de acesso: " + video);
+console.log("resultado da soma 10+15= " + (10 + 15));
+const numero1 = 10 - 25;
+const numero2 = 35;
+const soma = numero1 + numero2;
+console.log(soma);
+console.log(10 * 0.25 + "%");
+let lote = "dado"
+console.log (lote);
+console.log(`jogo ${video}`);
+console.log(`nome: ${cesar};
+idade: ${soma}; 
+data de nascimento: ${'01/09/2004'};
+estado: ${'pernambuco'}`);
